@@ -389,4 +389,12 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+#uv
+.python-version
+*.py
+pyproject.toml
+uv.lock
+
+
+
 # End of https://www.toptal.com/developers/gitignore/api/python,jetbrains+all,pycharm+all,windows,linux,macos
